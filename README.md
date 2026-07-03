@@ -45,7 +45,8 @@ Wikipedia article
 
 ### YouTube Tutorials
 
-About Racket Programming language (Channel: VLR Training)  
+About Racket Programming language - (Channel: VLR Training)  
 - https://www.youtube.com/shorts/BvMMZz5dgE0   
 
- 
+Interview with Nim language creator Andreas Rumpf - (Channel: Context Free)   
+- https://www.youtube.com/watch?v=-9SGIB946lw  
