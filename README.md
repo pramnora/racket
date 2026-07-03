@@ -31,8 +31,8 @@ Wikipedia article
 
 ### Hello, world!  
 
-> #lang racket
-> "Hello, world!"
+> #lang racket  
+> "Hello, world!"  
 
 ### Maths  
 
