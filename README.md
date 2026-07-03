@@ -1,13 +1,16 @@
 # racket
 
-**CREATED**: *Fri 3rd July 2026 19:20 PM GMT*   
-**UPDATED**: *Fri 3rd July 2026 19:20 PM GMT*   
+**CREATED**: *Fri 3rd July 2026 19:39 PM GMT*   
+**UPDATED**: *Fri 3rd July 2026 19:39 PM GMT*   
 
 -----
 
 ## Introduction  
 
-Nim programming language was created by , as I understand it was originally called: Nimrod.  
+According to the official web site introduction:-  
+
+- Racket, is a general purpose multi-paradigm programming language    
+- a modern dialect of Lisp/and, a descendent of Scheme  
 
 -----
 
@@ -16,13 +19,33 @@ Nim programming language was created by , as I understand it was originally call
 -----
 
 The official web site:  
-- https://lang-nim.com  
+- https://racket-lang.org  
+- https://docs.racket-lang.org/  
+
+Wikipedia article  
+- https://en.wikipedia.org/wiki/Racket_(programming_language)  
+
+-----
+
+## Example codes  
+
+### Hello, world!  
+
+> #lang racket
+> "Hello, world!"
+
+### Maths  
+
+> (+ 3 3)    
+> (- 3 3)  
+> (* 3 3)  
+> (/ 3 3)  
 
 -----
 
 ### YouTube Tutorials
 
-Introduction to Nim - Nim Tutorial (Part 1) - (Channel: Steve's teacher)  
-- https://www.youtube.com/watch?v=hwzkIlNfGHI&t=86s  
+About Racket Programming language (Channel: VLR Training)  
+- https://www.youtube.com/shorts/BvMMZz5dgE0   
 
  
