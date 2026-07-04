@@ -1,2 +1,2 @@
 #lang racket
-(define greetings '"Hello, world!")
+(define greetings "Hello, world!")
