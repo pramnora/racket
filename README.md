@@ -27,19 +27,29 @@ Wikipedia article
 
 -----
 
-## Example codes  
+## Managing Racket files: Installing/Opening/Closing/Running/-etc.   
 
 **NOTE(S)**:  
 
 ### Opening/closing the Linux Mint OS/Operating System CLI/Command Line Interface window  
 
+We use the CLI to both install/run Racket interpreter program.      
+
 - On Linux Mint OS to open a CLI window use keyboard shortcut: [CTRL] + [ALT] + [T]    
 
 - 3 ways to close the currently opened CLI window...
 
-a. type: exit, then, (press [ENTER] key)  
+a. type: exit; then, (press [ENTER] key)  
 b. keyboard shortcut: [ALT]+[F4]  
 c. click on the top right hand side window [x]/you will be asked to confirm if you really wish to shut it.   
+
+### Installing Racket  
+
+Inside of an opened CLI window...  
+
+> sudo apt install racket  
+
+**NOTE**: You will be asked to enter your Linux Minut username password.  
 
 ### Opening/closing the Racket interpreter  
 
