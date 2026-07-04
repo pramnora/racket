@@ -38,19 +38,26 @@ Wikipedia article
 
 ### Maths  
 
-> (+ 3 3)    
-> (- 3 3)  
-> (* 3 3)  
-> (/ 3 3)  
+#### Mathematical operators  
 
-> pi # 3.141592653589793  
-> (min 5 6) # 5  
-> (max 5 6) # 6  
+> (+ 3 3) # 6   
+> (- 3 3) # 0   
+> (* 3 3) # 9   
+> (/ 3 3) # 1   
+
+#### Comparison operators  
+
 > (> 5 6) # 6  
 > (< 5 6) # 5  
 > (= 5 6) # f  
 > (<= 5 6) # f  
 > (>= 5 6) # t  
+
+#### Built-in functions  
+
+> pi # 3.141592653589793  
+> (min 5 6) # 5  
+> (max 5 6) # 6  
 
 -----
 
