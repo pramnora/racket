@@ -29,6 +29,8 @@ Wikipedia article
 
 ## Example codes  
 
+-(**NOTE**: Racket files are saved using filename extension: [.rkt].)-  
+
 ### Hello, world!  
 
 > #lang racket  
