@@ -1,7 +1,7 @@
 # racket
 
 **CREATED**: *Fri 3rd July 2026 19:39 PM GMT*   
-**UPDATED**: *Fri 3rd July 2026 19:39 PM GMT*   
+**UPDATED**: *Sat 4th July 2026 10:49 AM GMT*   
 
 -----
 
@@ -40,6 +40,15 @@ Wikipedia article
 > (- 3 3)  
 > (* 3 3)  
 > (/ 3 3)  
+
+> pi # 3.141592653589793  
+> (min 5 6) # 5  
+> (max 5 6) # 6  
+> (> 5 6) # 6  
+> (< 5 6) # 5  
+> (= 5 6) # f  
+> (<= 5 6) # f  
+> (>= 5 6) # t  
 
 -----
 
