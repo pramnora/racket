@@ -77,6 +77,8 @@ just type in the procedure name/and, pass whatever matching number of arguments 
 
 > (add 3 4) # 7  
 
+-----
+
 ## Example codes  
 
 ### Hello, world!  
