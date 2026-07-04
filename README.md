@@ -31,9 +31,16 @@ Wikipedia article
 
 **NOTE(S)**: 
 
-- Racket files are saved using filename extension: [.rkt].)-  
+- Racket files are saved using filename extension: [.rkt].    
+
+- To load a Racket file [.rkt] to run inside of the interpreter:  
+
+> (enter! "filename.extension)      
+> (enter! "hw.rkt)  
+
 - To run invoke the Racket interpretor inside of the CLI, type: racket   
-- To quit out of the REPL/Read Eval Print Loop program use keyboard shortcut: [CTRL] + [D]    
+
+- To quit out of the REPL/Read Eval Print Loop program use keyboard shortcut: [CTRL] + [D]      
 
 ### Hello, world!  
 
