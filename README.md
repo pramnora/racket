@@ -81,6 +81,11 @@ just type in the procedure name/and, pass whatever matching number of arguments 
 
 ## Example codes  
 
+-(**TIP**: When you are typing in Racket code into the interpreter...;   
+there is no need to keep on typing in the all of the same codes, repeatedly, again and again;    
+instead, all you need to do is press the 'up arrow' key...;  
+and, this will automatically cycle through whichever codes you did type in before.)-     
+
 ### Hello, world!  
 
 > #lang racket    
