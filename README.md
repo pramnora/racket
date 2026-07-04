@@ -104,6 +104,11 @@ and, this will automatically cycle through whichever codes you did type in befor
 > (* 3 3) # 9   
 > (/ 3 3) # 1   
 
+#### Use of code brackets (interpreted going inside to out)  
+
+> (* 5 10) # 50  
+> (+ (* 5 10) 10) # 60  
+
 #### Comparison operators  
 
 > (> 5 6) # f    
