@@ -29,23 +29,32 @@ Wikipedia article
 
 ## Example codes  
 
-**NOTE(S)**: 
+**NOTE(S)**:  
+
+### Opening/closing the CLI window  
+
+- On Linux Mint OS/Operating System to open a CLI window use keyboard shortcut: [CTRL]+[ALT]+[T]  
+
+- To close the CLI window...type: exit, then, (press [ENTER] key)/alternatively, you can also use: [ALT]+[F4] to close the currently open window.      
+
+### Opening/closing the Racket interpreter  
+
+- To run invoke the Racket interpreter inside of the CLI/Command Line Interface, type: racket   
+
+- To quit out of the REPL/Read Eval Print Loop program use keyboard shortcut: [CTRL] + [D]      
+
+### Loading/running a racket [.rkt] file inside of the interpreter  
 
 - Racket files are saved using filename extension: [.rkt].    
 
 - To load a Racket file [.rkt] to run inside of the interpreter:  
 
-> (enter! "hw.rkt")  
+> (enter! "maths-fun.rkt") 
+
 ...to run any procedure inside of the file...just type in the procedure name/and, pass whatever matching number of arguments:       
+
 > (add 3 4)  
 
-- To run invoke the Racket interpreter inside of the CLI/Command Line Interface, type: racket   
-
-- On Linux Mint OS/Operating System to open a CLI window use keyboard shortcut: [CTRL]+[ALT]+[T]  
-
-- To close the CLI window...type: exit, then, (press [ENTER] key)/you can also use: [ALT]+[F4] to close the currently open window.      
-
-- To quit out of the REPL/Read Eval Print Loop program use keyboard shortcut: [CTRL] + [D]      
 
 ### Hello, world!  
 
