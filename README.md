@@ -51,14 +51,22 @@ c. click on the top right hand side window [x]/you will be asked to confirm if y
 
 - Racket files are saved using filename extension: [.rkt].    
 
+> #lang racket  
+> (define (add x y)(+ x y))  
+
+...save file as...  
+
+maths-fun.rkt  
+
 - To load a Racket file [.rkt] to run inside of the interpreter:  
 
 > (enter! "maths-fun.rkt") 
 
-...to run any procedure inside of the file...just type in the procedure name/and, pass whatever matching number of arguments:       
+...to run any procedure inside of the file...just type in the procedure name/and, pass whatever matching number of arguments the procedure requires:         
 
-> (add 3 4)  
+> (add 3 4) # 7
 
+## Example codes  
 
 ### Hello, world!  
 
