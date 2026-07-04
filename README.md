@@ -29,8 +29,6 @@ Wikipedia article
 
 ## Managing Racket files: Installing/Opening/Closing/Running/-etc.   
 
-**NOTE(S)**:  
-
 ### Opening/closing the Linux Mint OS/Operating System CLI/Command Line Interface window  
 
 We use the CLI to both install/run Racket interpreter program.      
@@ -40,8 +38,8 @@ We use the CLI to both install/run Racket interpreter program.
 - 3 ways to close the currently opened CLI window...
 
 a. type: exit; then, (press [ENTER] key)  
-b. keyboard shortcut: [ALT]+[F4]  
-c. click on the top right hand side window [x]/you will be asked to confirm if you really wish to shut it.   
+b. keyboard shortcut: [ALT] + [F4]  
+c. click on the top right hand side window [x]/and, you will be asked to confirm if you really wish to shut it.   
 
 ### Installing Racket  
 
@@ -49,11 +47,13 @@ Inside of an opened CLI window...
 
 > sudo apt install racket  
 
-**NOTE**: You will be asked to enter your Linux Minut username password.  
+**NOTE**: You will be asked to enter your Linux Mint username password.  
 
 ### Opening/closing the Racket interpreter  
 
-- To run invoke the Racket interpreter inside of the CLI/Command Line Interface, type: racket   
+- To run invoke the Racket interpreter inside of the CLI/Command Line Interface, type:   
+
+> racket   
 
 - To quit out of the REPL/Read Eval Print Loop program use keyboard shortcut: [CTRL] + [D]      
 
@@ -72,9 +72,10 @@ maths-fun.rkt
 
 > (enter! "maths-fun.rkt") 
 
-...to run any procedure inside of the file...just type in the procedure name/and, pass whatever matching number of arguments the procedure requires:         
+...to run any procedure stored inside of the file...  
+just type in the procedure name/and, pass whatever matching number of arguments the procedure requires:          
 
-> (add 3 4) # 7
+> (add 3 4) # 7  
 
 ## Example codes  
 
