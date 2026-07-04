@@ -29,7 +29,11 @@ Wikipedia article
 
 ## Example codes  
 
--(**NOTE**: Racket files are saved using filename extension: [.rkt].)-  
+**NOTE(S)**: 
+
+- Racket files are saved using filename extension: [.rkt].)-  
+- To run invoke the Racket interpretor inside of the CLI, type: racket   
+- To quit out of the REPL/Read Eval Print Loop program use keyboard shortcut: [CTRL] + [D]    
 
 ### Hello, world!  
 
@@ -47,17 +51,34 @@ Wikipedia article
 
 #### Comparison operators  
 
-> (> 5 6) # 6  
-> (< 5 6) # 5  
+> (> 5 6) # f    
+> (< 5 6) # t  
 > (= 5 6) # f  
-> (<= 5 6) # f  
-> (>= 5 6) # t  
+> (<= 5 6) # t   
+> (>= 5 6) # f  
 
 #### Built-in functions  
 
-> pi # 3.141592653589793  
-> (min 5 6) # 5  
+> pi # 3.141592653589793   
+> (min 5 6) # 5   
 > (max 5 6) # 6  
+
+#### User defined functions  
+
+> (define name "Paul")    
+> name # Paul  
+
+> (define x 7)  
+> (define y 8)  
+> x # 7  
+> y # 8  
+> (+ x y) # 15  
+
+
+> (define (add x y)(+ x y))    
+> (add 3 4) # 7  
+
+> ((lambda (x y)(+ x y)) 3 4) # 7  
 
 -----
 
