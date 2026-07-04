@@ -31,11 +31,15 @@ Wikipedia article
 
 **NOTE(S)**:  
 
-### Opening/closing the CLI window  
+### Opening/closing the Linux Mint OS/Operating System CLI/Command Line Interface window  
 
-- On Linux Mint OS/Operating System to open a CLI window use keyboard shortcut: [CTRL]+[ALT]+[T]  
+- On Linux Mint OS to open a CLI window use keyboard shortcut: [CTRL] + [ALT] + [T]    
 
-- To close the CLI window...type: exit, then, (press [ENTER] key)/alternatively, you can also use: [ALT]+[F4] to close the currently open window.      
+- 3 ways to close the currently opened CLI window...
+
+a. type: exit, then, (press [ENTER] key)  
+b. keyboard shortcut: [ALT]+[F4]  
+c. click on the top right hand side window [x]/you will be asked to confirm if you really wish to shut it.   
 
 ### Opening/closing the Racket interpreter  
 
