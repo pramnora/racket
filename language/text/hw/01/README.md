@@ -118,6 +118,7 @@ Type into the CLI:
 -(But, what happens if I don't have any *username/password* combination to use on the particular computing machine?   
 Then, it may be necessary to contact your computer **admin** department...to see if they will give you the proper permissions/   
 or else, install the Rocket program for you to be able to use.)-    
+
 -----
 
 ### How to close down the CLI window - 3 different methods  
