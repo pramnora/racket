@@ -24,7 +24,9 @@ Using Linux Mint OS/Operating System, first, open up a terminal application wind
 
 Keyboard shortcut: [CTRL] + [ALT] + [T]  (opens the CLI) 
 
-...a black screen window whould appear...into which it's possible to type in commands.    
+...a black screen window should, now, appear...into which it's possible to type in commands.    
+
+![Blank CLI screen](pictures/hw1-blank-cli.png "The CLI screen/blank.")  
 
 This same 'black screen' window is commonly referred to as being called by 3 different names/    
 but, each different name refers to the same 'one' thing:    
@@ -32,8 +34,6 @@ but, each different name refers to the same 'one' thing:
 1. The terminal application window.    
 2. The 'black screen' window...as the terminal application window, normally, has a black screen behind/with white text in front.      
 3. The **CLI**/**C**ommand **L**ine **I**nterface  - because you use it to type in/and, run (execute) commands.    
-
-![Blank CLI screen](pictures/hw1-blank-cli.png "The CLI screen/blank.")  
 
 -----
 
