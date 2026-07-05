@@ -90,7 +90,8 @@ Into the CLI window type in:
 
 ...this instruction will load up the Racket interpeter program;     
 and, also, load into computer memory the named file: hw1.txt;  
-it will then, automatically, run the codes contained within the Racket program file.    
+then, after you press the [ENTER] key to execute the command...;  
+it will run the codes contained within the Racket program file.    
 
 ...and, the output should appear as:  
 
