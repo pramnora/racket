@@ -67,7 +67,6 @@ Type into Nano text editor...the following Racket program codes:
 > #lang racket  
 > "Hello, world!"  
 
-
 ![hw1-source-code](pictures/hw1-sc.png "Nano text editor...displaying the program source code.")  
 
 ...next, press: [CTRL] + [X]; then, [Y] to save the file inside of Nano.  
@@ -87,6 +86,8 @@ Into the CLI window type in:
 
 > racket hw1.rkt  
 
+![hw1-run-cli](pictures/hw1-run-cli.png "CLI run command.")  
+
 ...this instruction will load up the Racket interpeter program;     
 and, also, load into computer memory the named file: hw1.txt;  
 it will then, automatically, run the codes contained within the Racket program file.    
@@ -94,6 +95,9 @@ it will then, automatically, run the codes contained within the Racket program f
 ...and, the output should appear as:  
 
 "Hello, world!"  
+
+![hw1-blank-nano](pictures/hw1-blank-nano.png "Nano text editor...blank.")  
+
 
 -----
 
