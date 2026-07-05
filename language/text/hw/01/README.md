@@ -49,11 +49,11 @@ Into the terminal application window type in the following command(then, press t
 
 2. and, create a named file: hw1.rkt   
 
-Racket program files are saved using filename.extension: .rkt  
-
-...and, now, Nano text editor should appear...ready for you to type in your program code.  
+**NOTE**: Racket program files are saved using filename.extension: .rkt  
 
 ![hw1-open-nano](pictures/hw1-open-nano.png "CLI screen command to open Nano text editor.")  
+
+...and, next, Nano text editor should appear...ready for you to type in your program code.  
 
 -----
 
