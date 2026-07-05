@@ -88,6 +88,10 @@ Type into the CLI:
 
 ...and, you will be prompted to type in your username 'password'; type it in...and, the Racket program should install.  
 
+-(But, what happens if I don't have any username/password to use on the particular computing machine?   
+Then, it may be necessary to contact your computer admin department...to see if they will give you the proper permissions/   
+or else, install the Rocket program for you.)-    
+
 -----
 
 ### How to close down the CLI window - 3 different methods  
