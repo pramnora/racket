@@ -86,7 +86,7 @@ Into the CLI window type in:
 
 > racket hw1.rkt  
 
-![hw1-run-cli](pictures/hw1-run-cli.png "CLI run command.")  
+![hw1-run](pictures/hw1-run.png "CLI run command...plus, output.")  
 
 ...this instruction will load up the Racket interpeter program;     
 and, also, load into computer memory the named file: hw1.txt;  
@@ -95,9 +95,6 @@ it will then, automatically, run the codes contained within the Racket program f
 ...and, the output should appear as:  
 
 "Hello, world!"  
-
-![hw1-blank-nano](pictures/hw1-blank-nano.png "Nano text editor...blank.")  
-
 
 -----
 
