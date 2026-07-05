@@ -53,6 +53,8 @@ Racket program files are saved using filename.extension: .rkt
 
 ...and, now, Nano text editor should appear...ready for you to type in your program code.  
 
+![hw1-open-nano](pictures/hw1-open-nano.png "CLI screen command to open Nano text editor.")  
+
 -----
 
 ## Type into Nano text editor the program code/then, save it  
