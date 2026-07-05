@@ -76,6 +76,8 @@ it will then, automatically, run the codes contained within the Racket program f
 
 **NOTE(S)**:  
 
+-----
+
 ## Make sure the Racket program is installed, first...; before attempting to run the above program code.      
 
 For the above 'Hello, world!' program to work...; then, you would already need to have to have the Racket program installed, first.  
@@ -85,6 +87,8 @@ Type into the CLI:
 > sudo apt install racket  
 
 ...and, you will be prompted to type in your username 'password'; type it in...and, the Racket program should install.  
+
+-----
 
 ## How to close down the CLI window - 3 different methods  
 
