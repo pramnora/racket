@@ -113,10 +113,11 @@ Type into the CLI:
 
 ...and, you will be prompted to type in your username 'password'; type it in...and, the Racket program should install.  
 
+![hw1-install-racket](pictures/hw1-install-racket.png "Using the CLI to install racket...")  
+
 -(But, what happens if I don't have any *username/password* combination to use on the particular computing machine?   
 Then, it may be necessary to contact your computer **admin** department...to see if they will give you the proper permissions/   
 or else, install the Rocket program for you to be able to use.)-    
-
 -----
 
 ### How to close down the CLI window - 3 different methods  
@@ -126,6 +127,8 @@ If you wish to close the CLI window down...; then, there are 3 different ways to
 > exit   
 
 ...type this command into the CLI window/and, then, next press the [ENTER] key to confirm.    
+
+![hw1-exit-cli](pictures/hw1-exit-cli.png "Close down the CLI window by typing command: exit")  
 
 Keyboard shortcut: [ALT] + [F4] - closes what is the currently opened window that you are using  
 
