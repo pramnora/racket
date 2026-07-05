@@ -19,6 +19,8 @@ This same 'black screen' window is commonly referred to by being called 3 differ
 2. The 'black screen' window...as the terminal application window, normally, has a black screen behind/with white text in front.    
 3. The **CLI**/**C**ommand **L**ine **I**nterface  - because you use it to type in/and, run (execute) commands  
 
+## How to open up Nano text editor  
+
 Into the terminal window type in the following command(then, press the [ENTER] key to make that command execute):  
 
 > nano hw1.rkt  
