@@ -14,7 +14,7 @@
 ## Links
 
 **CREATED**: *Sun 5 Jul 2026 11:22 AM GMT*  
-**UPDATED**: *Sun 5 Jul 2026 11:22 AM GMT*  
+**UPDATED**: *Sun 5 Jul 2026 14:52 PM GMT*  
 
 -----
 
@@ -86,8 +86,6 @@ Into the CLI window type in:
 
 > racket hw1.rkt  
 
-![hw1-run](pictures/hw1-run.png "CLI run command...plus, output.")  
-
 ...this instruction will load up the Racket interpeter program;     
 and, also, load into computer memory the named file: hw1.txt;  
 then, after you press the [ENTER] key to execute the command...;  
@@ -96,6 +94,8 @@ it will run the codes contained within the Racket program file.
 ...and, the output should appear as:  
 
 "Hello, world!"  
+
+![hw1-run](pictures/hw1-run.png "CLI run command...plus, output.")  
 
 -----
 
