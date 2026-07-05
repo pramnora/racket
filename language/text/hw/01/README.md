@@ -5,19 +5,33 @@
 
 -----
 
-Using Linux Mint OS, first, open up a terminal application window...  
+## Open up the CLI/Command Line Interface window...so, that you can type in and run commands
+
+Using Linux Mint OS/Operating System, first, open up a terminal application window...  
 
 [CTRL] + [ALT] + [T]   
 
-...a black screen window whould appear...into which it's possible to type in commands.  
+...a black screen window whould appear...into which it's possible to type in commands.    
 
-Type in:  
+This same 'black screen' window is also known as the **CLI**/**C**ommand **L**ine **I**nterface.  
+
+Into the CLI window type in the following command(then, press the [ENTER] key to make that command execute):  
 
 > nano hw1.rkt  
 
+...this command is saying...  
+
+1. open up Nano text editor application/(we use Nano to write program codes)  
+
+2. and, create a named file: hw1.rkt   
+
+Racket program files are saved using filename.extension: .rkt  
+
 ...and, now, Nano text editor should appear...ready for you to type in your program code.  
 
-Type in the program code as follows:  
+## Type into Nano text editor the program code/then, save it  
+
+Type into Nano text editor...the following Racket program codes:    
 
 > #lang racket  
 > "Hello, world!"  
@@ -26,6 +40,8 @@ Type in the program code as follows:
 
 You should now be returned straight back to the black screen window, again;  
 which is also called the CLI/Command Line Interface window...which you use to type in and run commands.    
+
+## How to run the program code
 
 Into the CLI window type in:  
 
@@ -43,4 +59,3 @@ it will then, automatically, run the codes contained within the Racket program f
 
 **NOTE(S)**:  
 
-1. Racket program files are saved using filename.extension: .rkt
