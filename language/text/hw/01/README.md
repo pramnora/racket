@@ -2,14 +2,14 @@
 
 **T**able **O**f **C**ontents:-
 
-## Open up the CLI/Command Line Interface window...so, that you can type in and run commands
-## How to open up Nano text editor by using the CLI 
-## Type into Nano text editor the program code/then, save it  
-## How to run the program code
+- ## Open up the CLI/Command Line Interface window...so, that you can type in and run commands
+- ## How to open up Nano text editor by using the CLI 
+- ## Type into Nano text editor the program code/then, save it  
+- ## How to run the program code
 
 **NOTE(S)**:  
-### Make sure the Racket program is installed, first...; before attempting to run the above program code.      
-### How to close down the CLI window - 3 different methods  
+- ### Make sure the Racket program is installed, first...; before attempting to run the above program code.      
+- ### How to close down the CLI window - 3 different methods  
 
 ## Links
 
