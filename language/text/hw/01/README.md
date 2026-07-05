@@ -26,7 +26,7 @@ Keyboard shortcut: [CTRL] + [ALT] + [T]  (opens the CLI)
 
 ...a black screen window whould appear...into which it's possible to type in commands.    
 
-This same 'black screen' window is commonly referred to by being called by 3 different names/    
+This same 'black screen' window is commonly referred to as being called by 3 different names/    
 but, each different name refers to being the same 'one' thing:    
 
 1. The terminal application window.    
