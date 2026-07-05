@@ -19,7 +19,9 @@ This same 'black screen' window is commonly referred to by being called 3 differ
 2. The 'black screen' window...as the terminal application window, normally, has a black screen behind/with white text in front.    
 3. The **CLI**/**C**ommand **L**ine **I**nterface  - because you use it to type in/and, run (execute) commands  
 
-## How to open up Nano text editor  
+-----
+
+## How to open up Nano text editor by using the CLI 
 
 Into the terminal window type in the following command(then, press the [ENTER] key to make that command execute):  
 
@@ -34,6 +36,8 @@ Into the terminal window type in the following command(then, press the [ENTER] k
 Racket program files are saved using filename.extension: .rkt  
 
 ...and, now, Nano text editor should appear...ready for you to type in your program code.  
+
+-----
 
 ## Type into Nano text editor the program code/then, save it  
 
@@ -50,6 +54,8 @@ Type into Nano text editor...the following Racket program codes:
 then, you would type, instead, [N] to leave the file unchanged.)-  
 
 You should now be returned straight back to the the terminal application 'black screen' window, again.  
+
+-----
 
 ## How to run the program code
 
