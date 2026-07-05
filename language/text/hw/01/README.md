@@ -90,7 +90,7 @@ Type into the CLI:
 
 If you wish to close the CLI window down...; then, there are 3 different ways to do this:    
 
-> exit   (type this command into the CLI window/and, then, next press the [ENTER] key to confirm.  
+> exit   (type this command into the CLI window/and, then, next press the [ENTER] key to confirm.)    
 
 keyboard shortcut: [ALT] + [F4] - closes what is the currently opened window that you are using  
 
