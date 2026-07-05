@@ -88,9 +88,11 @@ Type into the CLI:
 
 2.    
 
-If you wish to close the CLI window down...; then, just type:  
+If you wish to close the CLI window down...; then, there are 3 different ways to do this:    
 
-> exit  
+a. > exit  
+b. [ALT] + [F4] - closes what is the currently opened window that you are using  
+c. Click on the top right hand window close button marked: [x]  
 
 
 
