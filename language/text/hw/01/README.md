@@ -1,5 +1,18 @@
 # My 1st 'Hello, world!' Racket program code
 
+**T**able **O**f **C**ontents:-
+
+## Open up the CLI/Command Line Interface window...so, that you can type in and run commands
+## How to open up Nano text editor by using the CLI 
+## Type into Nano text editor the program code/then, save it  
+## How to run the program code
+
+**NOTE(S)**:  
+### Make sure the Racket program is installed, first...; before attempting to run the above program code.      
+### How to close down the CLI window - 3 different methods  
+
+## Links
+
 **CREATED**: *Sun 5 Jul 2026 11:22 AM GMT*  
 **UPDATED**: *Sun 5 Jul 2026 11:22 AM GMT*  
 
@@ -106,5 +119,11 @@ Keyboard shortcut: [ALT] + [F4] - closes what is the currently opened window tha
 
 Click on the top right hand window close button marked: [x]   
 
+-----
+
+## Links  
+
+The official web site...  
+- https://racket-lang.org  
 
 
