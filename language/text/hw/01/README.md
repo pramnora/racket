@@ -13,9 +13,13 @@ Using Linux Mint OS/Operating System, first, open up a terminal application wind
 
 ...a black screen window whould appear...into which it's possible to type in commands.    
 
-This same 'black screen' window is also known as the **CLI**/**C**ommand **L**ine **I**nterface.  
+This same 'black screen' window is commonly referred to by being called 3 different names/but, each refers to the same 'one' thing:    
 
-Into the CLI window type in the following command(then, press the [ENTER] key to make that command execute):  
+1. The terminal application window  
+2. The 'black screen' window...as the terminal application window, normally, has a black screen behind/with white text in front.    
+3. The **CLI**/**C**ommand **L**ine **I**nterface  - because you use it to type in/and, run (execute) commands  
+
+Into the terminal window type in the following command(then, press the [ENTER] key to make that command execute):  
 
 > nano hw1.rkt  
 
@@ -36,10 +40,14 @@ Type into Nano text editor...the following Racket program codes:
 > #lang racket  
 > "Hello, world!"  
 
-...next, press: [CTRL] + [X], then, [Y] to save the file inside of Nano.  
+...next, press: [CTRL] + [X]; then, [Y] to save the file inside of Nano.  
 
-You should now be returned straight back to the black screen window, again;  
-which is also called the CLI/Command Line Interface window...which you use to type in and run commands.    
+- [CTRL] + [X] allows you to quit Nano text editor application    
+- [Y] is to confirm the changes you've made to the file.  
+-(If you didn't wish to save the changes you'd made to the file...;   
+then, you would type, instead, [N] to leave the file unchanged.)-  
+
+You should now be returned straight back to the the terminal application 'black screen' window, again.  
 
 ## How to run the program code
 
