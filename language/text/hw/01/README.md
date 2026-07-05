@@ -33,6 +33,8 @@ but, each different name refers to the same 'one' thing:
 2. The 'black screen' window...as the terminal application window, normally, has a black screen behind/with white text in front.      
 3. The **CLI**/**C**ommand **L**ine **I**nterface  - because you use it to type in/and, run (execute) commands.    
 
+![Blank CLI screen](pictures/hw1-blank-cli.png "The CLI screen/blank.")  
+
 -----
 
 ## How to open up Nano text editor by using the CLI 
