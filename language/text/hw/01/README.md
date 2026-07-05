@@ -53,7 +53,8 @@ Into the terminal application window type in the following command(then, press t
 
 ![hw1-open-nano](pictures/hw1-open-nano.png "CLI screen command to open Nano text editor.")  
 
-...and, next, Nano text editor should appear...ready for you to type in your program code.  
+...please, don't forget to press [ENTER] key...after typing in your command into the CLI screen;  
+and, next, Nano text editor should appear...ready for you to type in your program code.  
 
 ![hw1-blank-nano](pictures/hw1-blank-nano.png "Nano text editor...blank.")  
 
