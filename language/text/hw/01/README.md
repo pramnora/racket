@@ -87,7 +87,7 @@ Into the CLI window type in:
 > racket hw1.rkt  
 
 ...this instruction will load up the Racket interpeter program;     
-and, also, load into computer memory the named file: hw1.txt;  
+and, also, load into computer memory the named file: hw1.rkt;  
 then, after you press the [ENTER] key to execute the command...;  
 it will run the codes contained within the Racket program file.    
 
