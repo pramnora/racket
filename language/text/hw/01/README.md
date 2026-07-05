@@ -13,17 +13,18 @@ Using Linux Mint OS/Operating System, first, open up a terminal application wind
 
 ...a black screen window whould appear...into which it's possible to type in commands.    
 
-This same 'black screen' window is commonly referred to by being called 3 different names/but, each refers to the same 'one' thing:    
+This same 'black screen' window is commonly referred to by being called by 3 different names/    
+but, each different name refers to being the same 'one' thing:    
 
-1. The terminal application window  
-2. The 'black screen' window...as the terminal application window, normally, has a black screen behind/with white text in front.    
-3. The **CLI**/**C**ommand **L**ine **I**nterface  - because you use it to type in/and, run (execute) commands  
+1. The terminal application window.    
+2. The 'black screen' window...as the terminal application window, normally, has a black screen behind/with white text in front.      
+3. The **CLI**/**C**ommand **L**ine **I**nterface  - because you use it to type in/and, run (execute) commands.    
 
 -----
 
 ## How to open up Nano text editor by using the CLI 
 
-Into the terminal window type in the following command(then, press the [ENTER] key to make that command execute):  
+Into the terminal application window type in the following command(then, press the [ENTER] key to make that command execute):  
 
 > nano hw1.rkt  
 
@@ -74,4 +75,22 @@ it will then, automatically, run the codes contained within the Racket program f
 -----
 
 **NOTE(S)**:  
+
+1.  
+
+For the above 'Hello, world!' program to work...; then, you would already need to have to have the Racket program installed, first.  
+
+Type into the CLI:  
+
+> sudo apt install racket  
+
+...and, you will be prompted to type in your username 'password'; type it in...and, the Racket program should install.  
+
+2.    
+
+If you wish to close the CLI window down...; then, just type:  
+
+> exit  
+
+
 
