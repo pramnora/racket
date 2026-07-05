@@ -76,7 +76,7 @@ it will then, automatically, run the codes contained within the Racket program f
 
 **NOTE(S)**:  
 
-1.  
+## Make sure the Racket program is installed, first...; before attempting to run the above program code.      
 
 For the above 'Hello, world!' program to work...; then, you would already need to have to have the Racket program installed, first.  
 
@@ -86,7 +86,7 @@ Type into the CLI:
 
 ...and, you will be prompted to type in your username 'password'; type it in...and, the Racket program should install.  
 
-2.    
+## How to close down the CLI window - 3 different methods  
 
 If you wish to close the CLI window down...; then, there are 3 different ways to do this:    
 
