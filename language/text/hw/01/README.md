@@ -9,7 +9,7 @@
 
 Using Linux Mint OS/Operating System, first, open up a terminal application window...  
 
-[CTRL] + [ALT] + [T]   
+Keyboard shortcut: [CTRL] + [ALT] + [T]  (opens the CLI) 
 
 ...a black screen window whould appear...into which it's possible to type in commands.    
 
@@ -96,7 +96,7 @@ If you wish to close the CLI window down...; then, there are 3 different ways to
 
 > exit   (type this command into the CLI window/and, then, next press the [ENTER] key to confirm.)    
 
-keyboard shortcut: [ALT] + [F4] - closes what is the currently opened window that you are using  
+Keyboard shortcut: [ALT] + [F4] - closes what is the currently opened window that you are using  
 
 Click on the top right hand window close button marked: [x]   
 
