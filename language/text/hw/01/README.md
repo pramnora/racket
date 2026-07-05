@@ -67,6 +67,9 @@ Type into Nano text editor...the following Racket program codes:
 > #lang racket  
 > "Hello, world!"  
 
+
+![hw1-source-code](pictures/hw1-sc.png "Nano text editor...displaying the program source code.")  
+
 ...next, press: [CTRL] + [X]; then, [Y] to save the file inside of Nano.  
 
 - [CTRL] + [X] allows you to quit Nano text editor application    
@@ -74,7 +77,7 @@ Type into Nano text editor...the following Racket program codes:
 -(If you didn't wish to save the changes you'd made to the file...;   
 then, you would type, instead, [N] to leave the file unchanged.)-  
 
-You should now be returned straight back to the the terminal application 'black screen' window, again.  
+You should now be returned straight back to the terminal application 'black screen' window, again.  
 
 -----
 
