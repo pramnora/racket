@@ -55,6 +55,8 @@ Into the terminal application window type in the following command(then, press t
 
 ...and, next, Nano text editor should appear...ready for you to type in your program code.  
 
+![hw1-blank-nano](pictures/hw1-blank-nano.png "Nano text editor...blank.")  
+
 -----
 
 ## Type into Nano text editor the program code/then, save it  
