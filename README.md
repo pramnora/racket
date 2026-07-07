@@ -1,7 +1,7 @@
 # racket
 
-**CREATED**: *Fri 3rd July 2026 19:39 PM GMT*   
-**UPDATED**: *Sat 4th July 2026 10:49 AM GMT*   
+**CREATED**: *Fri 3 Jul 2026 19:39 PM GMT*   
+**UPDATED**: *Tue 7 Jul 2026 17:13 PM GMT*   
 
 -----
 
@@ -143,6 +143,9 @@ and, this will automatically cycle through whichever codes you did type in befor
 -----
 
 ### YouTube Tutorials
+
+Why Racket is the Best First Programming Language - (Channel: Yassa Taiseer)  
+- https://www.youtube.com/watch?v=2fPZSVbxby4  
 
 About Racket Programming language - (Channel: VLR Training)  
 - https://www.youtube.com/shorts/BvMMZz5dgE0   
